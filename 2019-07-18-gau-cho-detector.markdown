@@ -7,5 +7,5 @@ img: cabin.png
 alt: image-alt
 project-date: April 2019
 category: Web Development
-description: Ứng dụng detect gấu chó cho ae :((
+description: "Ứng dụng detect gấu chó cho ae :(("
 ---
