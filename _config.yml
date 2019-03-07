@@ -1,11 +1,11 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
-url: https://example.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+title: The Luôn Group - luôn.vn
+email: admin@xn--lun-lna.vn (admin@luôn.vn)
+url: https://luôn.vn
+description: "The Luôn Group's Official Website. All projects of Luôn Group."
+keywords: "luon group, luôn group, luôn.vn, xn--lun-lna.vn"
+skills: "Web Developer - Tool Deverloper"
+meta_author: vinhjaxt nptr
 
 # Google webmaster tools
 google_verify:
@@ -32,10 +32,10 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
-  location: Location
+  copyright: Luôn.vn
+  location: Earth
   social: Around the Web
-  credits: Credits
+  credits: Nptr
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -56,7 +56,7 @@ address:
   - line: Beverly Hills, CA 90210
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: '@jeromelachaud/freelancer-theme'
 
 # Build settings
 markdown: kramdown
