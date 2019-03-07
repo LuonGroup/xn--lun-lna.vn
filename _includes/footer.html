@@ -14,7 +14,7 @@
                     <div class="footer-col col-md-4">
                         <h3>Projects</h3>
 			{% for post in site.posts %}
-                        <a href="{{ post.link }}"><button type="button" class="btn btn-outline-success">{{ post.name }}</button></a>
+                        <a href="{{ post.link }}">{{ post.name }}</a><br/>
 			{% endfor %}
                     </div>
                     <div class="footer-col col-md-4">
