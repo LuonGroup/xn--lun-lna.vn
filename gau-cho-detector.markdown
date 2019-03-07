@@ -1,6 +1,5 @@
 ---
 layout: default
-modal-id: 1
 name: GấuChó Detector
 link: //watchdog.xn--lun-lna.vn
 date: 2019-07-18
