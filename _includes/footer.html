@@ -13,11 +13,9 @@
                     </div>
                     <div class="footer-col col-md-4">
                         <h3>Projects</h3>
-                        <ul>
-                            <li>
-                                <a href="//watchdog.xn--lun-lna.vn/">GấuChó Detecter</a>
-                            </li>
-                        </ul>
+			{% for post in site.posts %}
+                        <a href="{{ post.link }}"><button type="button" class="btn btn-outline-primary">{{ post.name }}</button>
+			{% endfor %}
                     </div>
                     <div class="footer-col col-md-4">
                         <h3>{{ site.footer.credits }}</h3>
