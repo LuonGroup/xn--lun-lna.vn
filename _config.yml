@@ -38,7 +38,7 @@ footer:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: admin@luôn.vn (admin@xn--lun-lna.vn)
+  - line: admin@luôn.vn
 
 # Credits content
 credits: '@jeromelachaud/freelancer-theme'
