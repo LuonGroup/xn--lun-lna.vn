@@ -1,6 +1,6 @@
 # Site settings
 title: The Luôn Group - luôn.vn
-email: admin@xn--lun-lna.vn (admin@luôn.vn)
+email: admin@xn--lun-lna.vn
 url: https://luôn.vn
 description: "The Luôn Group's Official Website. All projects of Luôn Group."
 keywords: "luon group, luôn group, luôn.vn, xn--lun-lna.vn"
@@ -38,7 +38,7 @@ footer:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: admin@xn--lun-lna.vn (admin@luôn.vn)
+  - line: admin@luôn.vn (admin@xn--lun-lna.vn)
 
 # Credits content
 credits: '@jeromelachaud/freelancer-theme'
